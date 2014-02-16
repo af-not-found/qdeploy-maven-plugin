@@ -4,7 +4,7 @@ qdeploy-maven-plugin is a maven plugin to deploy war file quickly.
 ### Overview
 qdeploy-maven-plugin requires a daemon web application named [qdeploy-maven-webapp](https://github.com/af-not-found/qdeploy-maven-webapp).
 
-![img](http://static.afnf.net/sstatic/qdeploy-maven-plugin.png?v=1)
+![img](http://blog.afnf.net/sstatic/qdeploy-maven-plugin.png?v=2)
 
 ### Configuration
 
